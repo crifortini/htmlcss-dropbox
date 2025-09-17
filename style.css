@@ -14,4 +14,30 @@ header{
     height:30px;
     object-fit:contain;
     border-radius:4px;
+    display:flex;
+    gap:12px;
+    align-items:center;
+    font-weight:700;
+}
+
+.logo img{
+    height:26px;
+}
+
+.btn{
+    background:blue;
+    border:1px solid #d3e6ff;
+    padding:8px 12px;
+}
+
+nav a{
+    margin-left:18px;
+    color: black;
+    text-decoration:none;
+    font-size:14px;
+}
+
+main{
+    max-width:1200px;
+    margin:0 auto;
 }
