@@ -24,6 +24,19 @@ h1{
     font-weight:700;
 }
 
+p{
+    padding: 35px;
+}
+
+i{
+    font-size: 30px;
+    margin-left: 3%;
+}
+
+#gratis{
+    margin-left: 3%;
+}
+
 .logo img{
     height:26px;
 }
@@ -32,6 +45,8 @@ h1{
     background:blue;
     border:1px solid #d3e6ff;
     padding:8px 12px;
+    color: white;
+    text-decoration: none;
 }
 
 nav a{
