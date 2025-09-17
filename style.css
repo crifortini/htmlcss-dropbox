@@ -1,0 +1,17 @@
+body{margin:0;
+    background:white;
+}
+
+header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:20px 24px;
+    border-bottom:1px solid white;
+}
+
+.logo{
+    height:30px;
+    object-fit:contain;
+    border-radius:4px;
+}
