@@ -96,3 +96,25 @@ main{
     max-width:1200px;
     margin:0 auto;
 }
+
+footer{
+    background-color: black;
+}
+
+.lenguage i{
+    color: grey;
+    font-size: 15px;
+    margin-top: 25px;
+}
+
+.lenguage span{
+    color: grey;
+}
+
+hr{
+     border: none;
+    height: 1px;
+    background-color: gray;
+    margin-right: 90%;
+    margin-left: 48px;
+}
