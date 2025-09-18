@@ -172,3 +172,17 @@ button{
     margin-left: 63%;
     margin-top: -10px;
 }
+
+.nav-link{
+    color: white;
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 14px;
+}
+
+.nav-title{
+    color: white;
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 25px;
+}
