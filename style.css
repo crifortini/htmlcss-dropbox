@@ -26,6 +26,7 @@ h2{
     font-size: 30px;
     font-family: sans-serif;
     margin-right: 35%;
+    margin-top: 15%;
 }
 
 h3{
@@ -102,9 +103,21 @@ nav a{
     margin-left: 12%;
 }
 
+#switch{
+    height: 20px;
+    width: 20px;
+    margin-left: 11%;
+}
+
 main{
     max-width:1200px;
     margin:0 auto;
+}
+
+#money{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: -15px;
 }
 
 footer{
