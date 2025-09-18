@@ -11,32 +11,32 @@ header{
 }
 
 .container{
-    background-color: aquamarine;
+    background-color: #b4d0e6;
 }
 
 h1{
     text-align: center;
     font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     margin-right: 35%;
 }
 
 h2{
     text-align: center;
     font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     margin-right: 35%;
 }
 
 h3{
     text-align: center;
     font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
 }
 
 .team{
     font-size: 30px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
     margin-right: 42%;
 }
 
@@ -63,6 +63,16 @@ i{
     margin-left: 3%;
 }
 
+.container i{
+    margin-bottom: 20px;
+}
+
+.container img{
+    position: absolute;
+    margin-top: -24%; 
+    margin-left: 18%;
+}
+
 #gratis{
     margin-left: 3%;
 }
@@ -72,7 +82,7 @@ i{
 }
 
 .btn{
-    background:blue;
+    background: #0061fe;
     border:1px solid #d3e6ff;
     padding:8px 12px;
     color: white;
@@ -87,7 +97,7 @@ nav a{
 }
 
 #client{
-    color: blue;
+    color: #8668f4;
     font-size:14px;
     margin-left: 12%;
 }
@@ -102,19 +112,19 @@ footer{
 }
 
 .lenguage i{
-    color: grey;
+    color: #4a524f;
     font-size: 15px;
     margin-top: 25px;
 }
 
 .lenguage span{
-    color: grey;
+    color: #4a524f;
 }
 
 hr{
      border: none;
     height: 1px;
-    background-color: gray;
+    background-color: #bcbcbc;
     margin-right: 90%;
     margin-left: 48px;
 }
