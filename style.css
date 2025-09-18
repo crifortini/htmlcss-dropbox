@@ -43,6 +43,7 @@ h3{
 
 span{
     padding-left: 20px;
+    font-family: sans-serif;
 }
 
 .logo{
@@ -97,16 +98,25 @@ nav a{
     font-size:14px;
 }
 
+a{
+    font-family: sans-serif;
+}
+
 #client{
-    color: #8668f4;
+    color: blue;
     font-size:14px;
     margin-left: 12%;
+
 }
 
 #switch{
     height: 20px;
     width: 20px;
     margin-left: 11%;
+}
+
+#partner{
+    font-size: 25px;
 }
 
 main{
