@@ -106,12 +106,20 @@ a{
     color: blue;
     font-size:14px;
     margin-left: 12%;
+}
 
+#operations{
+    margin-right: 25%;
 }
 
 #switch{
     height: 20px;
     width: 20px;
+    margin-left: 11%;
+}
+
+#partner-img{
+    margin-top: -20%; 
     margin-left: 11%;
 }
 
